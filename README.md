@@ -1,4 +1,4 @@
-# transaction-processing [![License MIT][badge-license]](LICENSE.txt)
+# sigmod-2015 [![License MIT][badge-license]](LICENSE.txt)
 ACM Sigmod 2015 Programming Contest
 
 > The ACID principle, mandating atomicity, consistency, isolation and durability is one of the cornerstones of relational database management systems. In order to achieve the third principle, isolation, concurrent reads and writes must be handled carefully.
